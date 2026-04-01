@@ -1,4 +1,4 @@
-# PROYECTO-1---ESTRUCTURAS-DE-DATOS
+# PROYECTO-1-ESTRUCTURAS-DE-DATOS
 # Proyecto de estructuras de datos - gestión de servicios AutoRescate 24/7
 
 Descripción
